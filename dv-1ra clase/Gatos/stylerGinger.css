@@ -1,0 +1,25 @@
+.cont {
+    display: flex;
+    justify-content: end;
+}
+.cont a {
+    padding: 15px;
+    color: black;
+    text-decoration: overline;
+    font-size: 20px;
+}
+.centro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+    margin-top: 150px;
+}
+.imagen {
+    -webkit-transform: rotate(90deg);
+    height: 150px;
+    width: 325px;
+}
+.centro ol {
+    list-style: none;
+}
